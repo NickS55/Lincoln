@@ -1,0 +1,79 @@
+{
+    "name": "Lincoln Sorcher",
+    "articles": [
+        {
+            "id": 5,
+            "title": "Destress by Binge-Watching These TV Shows Backwards",
+            "type": "published article 🗞️",
+            "createdOn": "05/07/2022",
+            "link": "https://medium.com/slackjaw/destress-by-binge-watching-these-tv-shows-backwards-b040dc4522ac",
+            "imgSrc": "/Netflix.png"
+
+        },
+        {
+            "id": 0,
+            "type": "published article 🗞️",
+            "title": "Fellow Mobsters, I Am Changing My Email Address—but Not Because I Am Going into Witness Protection",
+            "createdOn": "04/11/2022",
+            "link": "https://www.pointsincase.com/articles/fellow-mobsters-i-am-changing-my-email-address-but-not-because-i-am-going-into-witness-protection",
+            "imgSrc": "/Capone.jpeg"
+        },
+        {
+            "id": 1,
+            "type": "published article 🗞️",
+            "title": "Could I have your vote, if it's not too much trouble?",
+            "createdOn": "03/26/2022",
+            "link": "https://www.pointsincase.com/articles/america-please-elect-me-as-our-countrys-first-beta-male-president-in-2024",
+            "imgSrc": "/BetaPresident.jpeg",
+            "summary": "America's First Beta Male President"
+        },
+        {
+            "id": 2,
+            "type": "tweet 🐦",
+            "title": "Feb 20: A hungry 500-pound bear has broken into nearly 30 homes In California, says the Bear, 'why does my weight need to be brought into this?'",
+            "createdOn": "02/20/2022",
+            "link": "https://twitter.com/discreetmagpie/status/1495459935035052037?s=20&t=hfNj9XgnGLdIEEJTFrWBxw",
+            "imgSrc": "/Bear.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "Humor’s Efficacy in Communicating Climate Change Messaging",
+            "type": "thesis 🎓",
+            "createdOn": "11/01/2021",
+            "link": "/thesis.pdf",
+            "imgSrc": "/Thesis.jpeg",
+            "download": "Sorscher_Thesis"
+        },
+        {
+            "id": 4,
+            "title": "Lincoln's Dry Spell",
+            "type": "stand-up comedy 🧍",
+            "createdOn": "",
+            "link": "https://www.youtube.com/watch?v=6d9nI1i58Dw",
+            "imgSrc": "/Desert.jpeg",
+            "summary": "5-minutes of stand-up comedy"
+        }
+    ],
+    "socials": [
+        {
+            "id": 0,
+            "company": "Twitter",
+            "link": "https://twitter.com/discreetmagpie"
+        },
+        {
+            "id": 1,
+            "company": "Linkedin",
+            "link": "https://www.linkedin.com/in/lincoln-sorscher-7237291b4/"
+        },
+        {
+            "id": 2,
+            "company": "Youtube",
+            "link": "https://www.youtube.com/channel/UCz7-nplWmxiSMFwxv7vtHuQ"
+        },
+        {
+            "id": 3,
+            "company": "Medium",
+            "link": "https://medium.com/@lsorscher123"
+        }
+    ]
+}

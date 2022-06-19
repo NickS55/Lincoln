@@ -6,7 +6,14 @@ import content from "../content.json"
 export default function Home({ content }) {
   const { name, articles, socials } = content
 
-  const Cards = articles.map((content) => {
+  const sortedArticles = articles.sort(function(a,b){
+	  const date1 = new Date(a?.createdOn || "1970")
+	  const date2 = new Date(b?.createdOn || "1970") 
+
+	  return  date2 - date1;
+  })
+
+  const Cards = sortedArticles.map((content) => {
     const { id, type, title, link, imgSrc, summary, createdOn, download } = content
     const fullImgSrc = `/articles${imgSrc}`
     const key = `article ${id}`

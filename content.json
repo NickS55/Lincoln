@@ -52,6 +52,14 @@
             "link": "https://www.youtube.com/watch?v=6d9nI1i58Dw",
             "imgSrc": "/Desert.jpeg",
             "summary": "5-minutes of stand-up comedy"
+        },
+	{
+            "id": 5,
+            "title": "It's the villain, doing something ominous, like picking at his teeth with the knife",
+            "type": "published article 🗞️",
+            "createdOn": "06/02/2022",
+            "link": "https://twitter.com/SlackjawHumor/status/1532350077121056770",
+            "imgSrc": "/teeth.jpeg"
         }
     ],
     "socials": [
